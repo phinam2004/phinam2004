@@ -6,37 +6,57 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Xin%20ch%C3%A0o!%20M%C3%ACnh%20l%C3%A0%20L%C3%AA%20Phi%20Nam%20(DK%20Phi%20Nam);Mobile%20App%20Developer%20(Flutter%20%26%20Dart);Full-Stack%20Web%20Developer%20(PHP%2C%20Laravel%2C%20JS);AI%20%26%20Creative%20Tech%20Enthusiast;70%2B%20Public%20Repositories%20%26%20Projects;Welcome%20to%20my%20GitHub!&font=Fira%20Code&center=true&width=560&height=50&color=00B4D8&vCenter=true&pause=1000&size=21" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Xin%20ch%C3%A0o!%20M%C3%ACnh%20l%C3%A0%20L%C3%AA%20Phi%20Nam%20(DK%20Phi%20Nam);Mobile%20App%20Developer%20(Flutter%20%26%20Dart);Full-Stack%20Web%20Developer%20(PHP%2C%20Laravel%2C%20JS);AI%20%26%20Creative%20Tech%20Enthusiast;70%2B%20Public%20Repositories%20%26%201.04%20GB%20Codebase;Welcome%20to%20my%20GitHub!&font=Fira%20Code&center=true&width=580&height=50&color=00B4D8&vCenter=true&pause=1000&size=21" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.facebook.com/phinam.2004/"><img width="32px" alt="Facebook" title="Facebook" src="https://custom-icon-badges.demolab.com/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.facebook.com/phinam.2004/" target="_blank"><img width="36px" alt="Facebook" title="Facebook" src="https://custom-icon-badges.demolab.com/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dkphinam.com"><img width="32px" alt="Website" title="Personal Website" src="https://custom-icon-badges.demolab.com/badge/-Website-00B4D8?style=flat&logo=globe&logoColor=white"/></a>
+  <a href="https://dkphinam.com" target="_blank"><img width="36px" alt="Website" title="Personal Website" src="https://custom-icon-badges.demolab.com/badge/-Website-00B4D8?style=flat&logo=globe&logoColor=white"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/phinam2004"><img width="32px" alt="GitHub" title="GitHub Profile" src="https://custom-icon-badges.demolab.com/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/phinam2004" target="_blank"><img width="36px" alt="GitHub" title="GitHub Profile" src="https://custom-icon-badges.demolab.com/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:phinam2004@gmail.com"><img width="32px" alt="Email" title="Send Email" src="https://custom-icon-badges.demolab.com/badge/-Email-EA4335?style=flat&logo=mail&logoColor=white"/></a>
+  <a href="mailto:phinam2004@gmail.com"><img width="36px" alt="Email" title="Send Email" src="https://custom-icon-badges.demolab.com/badge/-Email-EA4335?style=flat&logo=mail&logoColor=white"/></a>
+</p>
+
+<!-- Real Telemetry Badges -->
+<p align="center">
+  <a href="https://github.com/phinam2004?tab=repositories">
+    <img alt="Total Repositories" src="https://custom-icon-badges.demolab.com/badge/Repositories-74_Public_Repos-00B4D8?style=for-the-badge&logo=repo&logoColor=white" />
+  </a>
+  <a href="https://github.com/phinam2004">
+    <img alt="Total Code Volume" src="https://custom-icon-badges.demolab.com/badge/Code_Volume-1,041+_MB-06D6A0?style=for-the-badge&logo=database&logoColor=white" />
+  </a>
+  <a href="https://github.com/phinam2004?tab=followers">
+    <img alt="Followers" src="https://custom-icon-badges.demolab.com/github/followers/phinam2004?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+  <a href="https://komarev.com/ghpvc/?username=phinam2004">
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=phinam2004&color=00b4d8&style=for-the-badge&label=Profile+Views"/>
+  </a>
 </p>
 
 <br/>
 
-<!-- Social badges section -->
+---
+
+## ⚡ Bảng Điều Khiển Vi Mạch Dữ Liệu Thật (Core Repository Telemetry HUD)
+
+> 📊 **Hệ thống dữ liệu đo đạc thực tế từ 74 Repositories & hơn 1.04 GB mã nguồn của `phinam2004`:**
+
 <p align="center">
-  <a href="https://github.com/phinam2004?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/phinam2004?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-  </a>
-  <a href="https://github.com/phinam2004?tab=followers">
-    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/phinam2004?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-  <a href="https://github.com/phinam2004?tab=repositories">
-    <img alt="public repos" title="Total public repositories" src="https://custom-icon-badges.demolab.com/badge/Repos-74-1F222E?style=for-the-badge&logo=repo&logoColor=white"/>
-  </a>
-  <a href="https://komarev.com/ghpvc/?username=phinam2004">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=phinam2004&color=00b4d8&style=for-the-badge&label=Profile+Views"/>
-  </a>
+  <img src="assets/github_metrics_matrix.svg" alt="DK Phi Nam Repository Metrics Matrix" width="100%" />
+</p>
+
+<br/>
+
+## 🐍 Bản Đồ Đóng Góp Cyber Snake (Live Contribution Grid)
+
+> 🎮 **Hoạt họa Cyber Snake tự động di chuyển quét các điểm nút đóng góp thực tế:**
+
+<p align="center">
+  <img src="assets/contribution_snake.svg" alt="Contribution Snake Map" width="100%" />
 </p>
 
 <br/>
@@ -47,7 +67,7 @@
 
 - 🔭 Hiện đang tập trung phát triển các ứng dụng di động đa nền tảng với **Flutter & Dart** và hệ thống web với **Laravel, PHP, JavaScript**.
 - 💡 Đam mê khám phá các giải pháp công nghệ mới, ứng dụng **AI** và xây dựng trải nghiệm người dùng hiện đại, mượt mà.
-- 📦 Tác giả của hơn **70+ repositories** mã nguồn mở đa dạng từ mobile, web, game HTML5 đến các bot tự động hóa.
+- 📦 Tác giả của hơn **74 repositories** mã nguồn mở đa dạng từ mobile, web, game HTML5 đến các bot tự động hóa.
 - 📫 Kết nối với mình qua [Facebook](https://www.facebook.com/phinam.2004/) hoặc ghé thăm trang web cá nhân [dkphinam.com](https://dkphinam.com).
 
 <br/>
@@ -55,20 +75,24 @@
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
-  <!-- Repo info cards -->
+  <!-- Repo info cards (Dữ liệu thật 100% từ 74 Repositories của phinam2004) -->
   <p align="left">
-    <a href="https://github.com/phinam2004/learning_management"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=phinam2004&repo=learning_management&theme=react&bg_color=1F222E&title_color=00B4D8&hide_border=true&icon_color=F8D866&show_icons=false" alt="learning_management"></a>
-    <a href="https://github.com/phinam2004/health_performance"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=phinam2004&repo=health_performance&theme=react&bg_color=1F222E&title_color=00B4D8&hide_border=true&icon_color=F8D866&show_icons=false" alt="health_performance"></a>
-    <a href="https://github.com/phinam2004/history_manager"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=phinam2004&repo=history_manager&theme=react&bg_color=1F222E&title_color=00B4D8&hide_border=true&icon_color=F8D866&show_icons=false" alt="history_manager"></a>
-    <a href="https://github.com/phinam2004/Phi_Nam-Lap_trinh_mobile"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=phinam2004&repo=Phi_Nam-Lap_trinh_mobile&theme=react&bg_color=1F222E&title_color=00B4D8&hide_border=true&icon_color=F8D866&show_icons=false" alt="Phi_Nam-Lap_trinh_mobile"></a>
-    <a href="https://github.com/phinam2004/StackFoot"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=phinam2004&repo=StackFoot&theme=react&bg_color=1F222E&title_color=00B4D8&hide_border=true&icon_color=F8D866&show_icons=false" alt="StackFoot"></a>
-    <a href="https://github.com/phinam2004/quiz_Ai"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=phinam2004&repo=quiz_Ai&theme=react&bg_color=1F222E&title_color=00B4D8&hide_border=true&icon_color=F8D866&show_icons=false" alt="quiz_Ai"></a>
-    <a href="https://github.com/phinam2004/the_gioi_di_dong"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=phinam2004&repo=the_gioi_di_dong&theme=react&bg_color=1F222E&title_color=00B4D8&hide_border=true&icon_color=F8D866&show_icons=false" alt="the_gioi_di_dong"></a>
-    <a href="https://github.com/phinam2004/chem_hoa_qua"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=phinam2004&repo=chem_hoa_qua&theme=react&bg_color=1F222E&title_color=00B4D8&hide_border=true&icon_color=F8D866&show_icons=false" alt="chem_hoa_qua"></a>
-    <a href="https://github.com/phinam2004/chatbotPUBG"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=phinam2004&repo=chatbotPUBG&theme=react&bg_color=1F222E&title_color=00B4D8&hide_border=true&icon_color=F8D866&show_icons=false" alt="chatbotPUBG"></a>
+    <a href="https://github.com/phinam2004/learning_management"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=phinam2004&repo=learning_management&theme=react&bg_color=1F222E&title_color=00B4D8&hide_border=true&icon_color=F8D866&show_icons=false" alt="learning_management"></a>
+    <a href="https://github.com/phinam2004/health_performance"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=phinam2004&repo=health_performance&theme=react&bg_color=1F222E&title_color=00B4D8&hide_border=true&icon_color=F8D866&show_icons=false" alt="health_performance"></a>
+    <a href="https://github.com/phinam2004/history_manager"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=phinam2004&repo=history_manager&theme=react&bg_color=1F222E&title_color=00B4D8&hide_border=true&icon_color=F8D866&show_icons=false" alt="history_manager"></a>
+    <a href="https://github.com/phinam2004/Phi_Nam-Lap_trinh_mobile"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=phinam2004&repo=Phi_Nam-Lap_trinh_mobile&theme=react&bg_color=1F222E&title_color=00B4D8&hide_border=true&icon_color=F8D866&show_icons=false" alt="Phi_Nam-Lap_trinh_mobile"></a>
+    <a href="https://github.com/phinam2004/StackFoot"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=phinam2004&repo=StackFoot&theme=react&bg_color=1F222E&title_color=00B4D8&hide_border=true&icon_color=F8D866&show_icons=false" alt="StackFoot"></a>
+    <a href="https://github.com/phinam2004/quiz_Ai"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=phinam2004&repo=quiz_Ai&theme=react&bg_color=1F222E&title_color=00B4D8&hide_border=true&icon_color=F8D866&show_icons=false" alt="quiz_Ai"></a>
+    <a href="https://github.com/phinam2004/the_gioi_di_dong"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=phinam2004&repo=the_gioi_di_dong&theme=react&bg_color=1F222E&title_color=00B4D8&hide_border=true&icon_color=F8D866&show_icons=false" alt="the_gioi_di_dong"></a>
+    <a href="https://github.com/phinam2004/chem_hoa_qua"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=phinam2004&repo=chem_hoa_qua&theme=react&bg_color=1F222E&title_color=00B4D8&hide_border=true&icon_color=F8D866&show_icons=false" alt="chem_hoa_qua"></a>
+    <a href="https://github.com/phinam2004/chatbotPUBG"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=phinam2004&repo=chatbotPUBG&theme=react&bg_color=1F222E&title_color=00B4D8&hide_border=true&icon_color=F8D866&show_icons=false" alt="chatbotPUBG"></a>
   </p>
 
-  <a href="https://github.com/phinam2004?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <p align="center">
+    <a href="https://github.com/phinam2004?tab=repositories&sort=stargazers">
+      <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%2074%2B%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+    </a>
+  </p>
 </details>
 
 <br/>
