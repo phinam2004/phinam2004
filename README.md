@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/phinam2004">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Phi Nam" /></a>
+    <img src="[https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png](https://dkphinam.com/storage/gemini-generated-image-na886cna886cna88.png)" alt="Phi Nam" /></a>
 </p>
 
 <p align="center">
